@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">threads</string>
+    <string name="button">Hit me</string>
+    <string name="editText">Threads</string>
+</resources>
